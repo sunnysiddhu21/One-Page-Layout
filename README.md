@@ -9,15 +9,13 @@ One-Page Layout on Steve-Jobs
 
 Contributions are welcome! If you'd like to improve the project, fix bugs, or add new features, please feel free to open issues and pull requests.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- [Steve Jobs image source](link-to-image-source)
+- [Steve Jobs image source]()
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out at your-email@example.com.
+If you have any questions or suggestions, feel free to reach out at sunnysiddhu886@gmail.com.
 
