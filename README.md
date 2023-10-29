@@ -13,7 +13,7 @@ Contributions are welcome! If you'd like to improve the project, fix bugs, or ad
 
 ## Acknowledgments
 
-- [Steve Jobs image source]()
+- [Steve Jobs image source](https://github.com/sunnysiddhu21/One-Page-Layout/blob/main/images/Steve%20Jobs%20Wallpaper.jpeg)
 
 ## Contact
 
