@@ -5,6 +5,9 @@ One-Page Layout on Steve-Jobs
 
 3. Explore the one-page layout and enjoy the content.
 
+# Check Live Page 
+Click here :- https://sunnysiddhu21.github.io/One-Page-Layout/
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve the project, fix bugs, or add new features, please feel free to open issues and pull requests.
